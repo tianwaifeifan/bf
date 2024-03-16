@@ -57,6 +57,23 @@
             "searchable": 1,
             "changeable": 0
         },
+		{
+			"key": "AliShare",
+			"name": "🍒田|阿里云盘分享",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_AliShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 0,
+			"timeout": 60,
+			"ext": "https://atomgit.com/18581493872/honor/raw/master/lib/TK.json$$$https://atomgit.com/18581493872/honor/raw/master/lib/alishare.txt$$$db$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
 
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/农民影视.json"},
 {"key":"骚火","name":"💢骚火","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
