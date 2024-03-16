@@ -68,7 +68,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "https://atomgit.com/18581493872/honor/raw/master/lib/TK.json$$$https://atomgit.com/18581493872/honor/raw/master/lib/alishare.txt$$$db$$$1",
+			"ext": "https://atomgit.com/18581493872/honor/raw/master/lib/TK.json https://atomgit.com/18581493872/honor/raw/master/lib/alishare.txt",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
