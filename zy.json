@@ -61,14 +61,14 @@
 			"key": "AliShare",
 			"name": "🍒黑|阿里云盘分享",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/jar/pg.jar?ref_type=heads",
+			"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/fa02d68592dbc55469404011771361f01400bbd1/pg.jar",
 			"api": "csp_AliShare",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": ".https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/TK.json?ref_type=heads$$$https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/alishare.txt?ref_type=heads$$$db$$$1",
+			"ext": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/TK.json$$$https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/alishare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
