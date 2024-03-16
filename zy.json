@@ -5,7 +5,11 @@
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
-		 {
+{"key":"戏曲","name":"🅱️安徽庐剧","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/Blixq.json"},
+{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
+{"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
+{"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{
             "key": "电影港",
             "name": "🤍电影｜港湾",
             "type": 3,
@@ -14,10 +18,6 @@
             "ext": "https://raw.gitcode.com/Tianwaifeifan/smdy/raw/master/json/%E7%94%B5%E5%BD%B1%E6%B8%AF.json",
             "jar": "https://raw.gitcode.com/Tianwaifeifan/smdy/blobs/0dea7787dcb687373eaddf1e811c766233e1c4ea/xyq.jar"
         },
-{"key":"戏曲","name":"🅱️安徽庐剧","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/Blixq.json"},
-{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
-{"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
-{"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
