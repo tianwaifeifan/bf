@@ -29,6 +29,9 @@
             "ext": "https://raw.gitcode.com/Tianwaifeifan/smdy/raw/master/json/%E7%94%B5%E5%BD%B1%E6%B8%AF.json",
             "jar": "https://raw.gitcode.com/Tianwaifeifan/smdy/blobs/0dea7787dcb687373eaddf1e811c766233e1c4ea/xyq.jar"
         },
+		{"key": "Fangniu4k","name": "🐄┃放牛┃TV","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/fangniu.jar"},
+		{"key": "AList","name": "🧸Alist小雅","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png","drives": [{"name": "小雅","server": "http://xiaoya.xlog.cc/","startPage": "/","showAll": false,"search": true,"headers": {"Authorization": ""}}]}},
+		
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
