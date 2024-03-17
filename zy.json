@@ -12,7 +12,7 @@
 {"key": "dr_ikanbot","name": "🤖┃爱看机器人┃🤖","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
 {
 			"key": "天天",
-			"name": "🍒黑|天天App",
+			"name": "🐉天天App",
 			"type": 3,
 			"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/fa02d68592dbc55469404011771361f01400bbd1/pg.jar",
 			"api": "csp_TTian",
@@ -22,7 +22,7 @@
 
 {
             "key": "电影港",
-            "name": "🤍电影｜港湾",
+            "name": "🐉电影｜港湾",
             "type": 3,
             "api": "csp_XYQHiker",
             "playerType": "1",
@@ -67,10 +67,10 @@
             "searchable": 1,
             "changeable": 0
         },
-		{"key":"阿里云集合","name":"阿里💠分享(1)","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
+		{"key":"阿里云集合","name":"阿里🐉分享(1)","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
  "ext": "./sub/alishare1.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar"
 },
-{"key":"阿里云集合1","name":"阿里💠分享(2)","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
+{"key":"阿里云集合1","name":"阿里🐉分享(2)","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
  "ext": "./sub/alishare2.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar"
 },
 
