@@ -11,6 +11,16 @@
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "dr_ikanbot","name": "🤖┃爱看机器人┃🤖","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
 {
+			"key": "天天",
+			"name": "🍒黑|天天App",
+			"type": 3,
+			"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/fa02d68592dbc55469404011771361f01400bbd1/pg.jar",
+			"api": "csp_TTian",
+			"playerType": 1,
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
+		},
+
+{
             "key": "电影港",
             "name": "🤍电影｜港湾",
             "type": 3,
