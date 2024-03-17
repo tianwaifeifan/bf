@@ -68,10 +68,10 @@
             "changeable": 0
         },
 		{"key":"阿里云集合","name":"阿里💠分享(1)","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
- "ext": "./sub/alishare1.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "./api/ali.jar"
+ "ext": "./sub/alishare1.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar"
 },
 {"key":"阿里云集合1","name":"阿里💠分享(2)","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
- "ext": "./sub/alishare2.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "./api/ali.jar"
+ "ext": "./sub/alishare2.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar"
 },
 
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/农民影视.json"},
