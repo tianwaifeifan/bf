@@ -1,7 +1,4 @@
 [
-{"name":"小雅网盘1","server":"http://1.117.189.138:5678/","startPage":"/","showAll":false,"search":true,
-"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
-},
 {"name":"💠小雅网盘5","server":"http://60.204.156.46:5678","startPage":"/","showAll":false,"search":true,  
 "params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
 },
