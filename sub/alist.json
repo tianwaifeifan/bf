@@ -1,14 +1,11 @@
 [
-{"name":"🐉小雅网盘1","server":"http://60.204.156.46:5678","startPage":"/","showAll":false,"search":true,  
+{"name":"🐉小雅网盘1","server": "http://121.37.134.131:5678/","startPage": "/","showAll": false,"search": true,
 "params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
 },
-{"name":"🐉小雅网盘2","server": "http://121.37.134.131:5678/","startPage": "/","showAll": false,"search": true,
+{"name":"🐉小雅网盘2","server":"https://pan.mediy.cn/","startPage":"/","showAll":false,"search":true,
 "params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
 },
-{"name":"🐉小雅网盘3","server":"https://pan.mediy.cn/","startPage":"/","showAll":false,"search":true,
-"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
-},
-{"name":"🐉小雅网盘4","server":"http://124.71.206.236:5678","startPage":"/","showAll":false,"search":true,
+{"name":"🐉小雅网盘3,"server":"http://124.71.206.236:5678","startPage":"/","showAll":false,"search":true,
 "params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
 }
 
