@@ -1,6 +1,12 @@
-[
-{"name":"🐉小雅网盘","server": "http://121.37.134.131:5678/","startPage": "/","showAll": false,"search": true,
-"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
+{
+  "drives": [
+    {
+      "name": "失眠的夜🤍小雅网盘",
+      "server": "https://alist.891218.xyz/💃小雅"
+    }, 
+    {
+      "name": "失眠的夜🤍资源小站",
+      "server": "https://pan.ecve.cn/"
+    }
+  ]
 }
-
-]
