@@ -1,0 +1,67 @@
+[ {"share_name": "东风🐉阿里","share_id": "Ljev71jeFiZ"},
+  {"share_name": "兰庄主🐉阿里","share_id": "Thor6wfs5ac"},
+  {"share_name": "同步更新","share_id": "RnjUi1urdb2"},
+  {"share_name": "优源阁合集","share_id": "uWa9gbM3RJ7"},
+  {"share_name": "阿里1T","share_id": "mxAfB6eRgY4"},
+  {"share_name": "火星影剧","share_id": "EGjCoDoJCFV"},
+  {"share_name": "YYDSVIP","share_id": "dieULBdYP3D"},
+  {"share_name": "平凡中的","share_id": "4ydLxf7VgH7"},
+  {"share_name": "tacit0924","share_id": "DNgnCudf4cD","share_pwd":"6666"},
+  {"share_name": "小米合集", "share_id": "FkXPgsUP76F"},
+  {"share_name": "黄妈影视","share_id": "4bGRVUdUtct"},
+  {"share_name": "剧集合集","share_id": "gZcxeYHa9wR"},
+  {"share_name": "记录片","share_id": "HD1VjHgdymS"},
+  {"share_name": "双语电影","share_id": "cM5aMkPMRA4"},
+  {"share_name": "杜比电影","share_id": "ZHNChQfiPfk"},
+  {"share_name": "经典合集","share_id": "B5XdoDJx1Xy"},
+  {"share_name": "50T电影","share_id": "TznSsEDEzXA"},
+  {"share_name": "经典韩剧","share_id": "KUa2Mwpm1MR"},
+  {"share_name": "日剧合集","share_id": "PkV89yNDPi1"}
+]
+[ {"share_name": "电影REMUX","share_id": "vgjM1MiHvoL"},
+  {"share_name": "掌灯者大陆剧1","share_id": "8Fg4TNsd2A2"},
+  {"share_name": "掌灯者大陆剧2","share_id": "ar8Kg9azw1S"},
+  {"share_name": "掌灯者大陆剧3","share_id": "GMYSz3AHFaA"},
+  {"share_name": "掌灯者-港剧","share_id": "ftMhRaKUfYp"},
+  {"share_name": "掌灯者-台剧","share_id": "MLWPRHRt9W3"},
+  {"share_name": "掌灯者欧美剧1","share_id": "q6bv8qs9u5e"},
+  {"share_name": "掌灯者欧美剧2", "share_id": "kUDyvvcknxm"},
+  {"share_name": "剧集老王资源","share_id": "S1g5iJEL4kh"},
+  {"share_name": "动漫老王资源","share_id": "14tKp8iJ4vb"},
+  {"share_name": "千古風流动漫","share_id": "WdaaeX7HK44"},
+  {"share_name": "BBC纪录片合集","share_id":"KZo6HrzGxhP"},
+  {"share_name": "李连杰合集","share_id": "cmy3KCTRpFA"},
+  {"share_name": "成龙合集","share_id": "hMsDJ6dsGxQ"},
+  {"share_name": "YYDSVip-综艺","share_id": "UuHi9PeYSVz"},
+  {"share_name": "YYDSVip-综合","share_id": "v9To3HC6vhs"} 
+]
+self 我的阿里云盘
+wbrhqM5HkSV?pwd=6666 Tacit0924-总合集 1 updated_at DESC
+mxAfB6eRgY4 阿里1T 1 updated_at DESC
+4ydLxf7VgH7 平凡中的 1 updated_at DESC
+4bGRVUdUtct 黄妈 1 updated_at DESC
+dieULBdYP3D YYDSVIP 1 updated_at DESC
+RnjUi1urdb2 优源阁 1 updated_at DESC
+vgjM1MiHvoL 电影REMUX 1 updated_at DESC
+uWa9gbM3RJ7 优源阁-资源总合集 1 updated_at DESC
+EGjCoDoJCFV 火星影剧 1 updated_at DESC
+S1g5iJEL4kh 剧集-老王资源宝藏 1 updated_at DESC
+14tKp8iJ4vb 动漫-老王资源宝藏 1 updated_at DESC
+WdaaeX7HK44 此间微凉-动漫合集 1 updated_at DESC
+UuHi9PeYSVz YYDSVip-综艺 1 updated_at DESC
+v9To3HC6vhs YYDSVip-综合 1 updated_at DESC
+KQbDJmKhSLL?pwd=6666 Tacit0924-动漫 1 updated_at DESC
+KUa2Mwpm1MR 经典韩剧 1 updated_at DESC
+PkV89yNDPi1 日剧合集 1 updated_at DESC
+jk2Se2VHgyK 纪录片合集1 1 updated_at DESC
+fSNHaYST47s 纪录片合集2 1 updated_at DESC
+KZo6HrzGxhP BBC纪录片大合集 1 updated_at DESC
+ftMhRaKUfYp 掌灯者-港剧 1 updated_at DESC
+MLWPRHRt9W3 掌灯者-台剧 1 updated_at DESC
+8Fg4TNsd2A2 掌灯者-大陆剧1 1 updated_at DESC
+ar8Kg9azw1S 掌灯者-大陆剧2 1 updated_at DESC
+GMYSz3AHFaA 掌灯者-大陆剧3 1 updated_at DESC
+q6bv8qs9u5e 掌灯者-欧美剧1 1 updated_at DESC
+kUDyvvcknxm 掌灯者-欧美剧2 1 updated_at DESC
+cmy3KCTRpFA 李连杰电影合集 1 updated_at DESC
+hMsDJ6dsGxQ 成龙电影合集 1 updated_at DESC
