@@ -51,7 +51,7 @@
             "name": "🌃失眠的夜｜AList",
             "type": 3,
             "api": "csp_AList",
-            "jar": "./jar/custom_spider.jar",
+            "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/c3bd10afbbdbf0c56e7f43c911c3c4317ed1d520/custom_spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
