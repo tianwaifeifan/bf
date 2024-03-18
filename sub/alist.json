@@ -1,9 +1,6 @@
 [
 {"name":"🐉小雅网盘","server": "http://121.37.134.131:5678/","startPage": "/","showAll": false,"search": true,
 "params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
-},
-{"name":"🐉七米蓝网盘","server":"https://al.chirmyram.com/","startPage":"/","showAll":false,"search":true,
-"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
 }
 
 ]
