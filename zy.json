@@ -12,6 +12,36 @@
 {"key": "dr_ikanbot","name": "🤖┃爱看机器人┃🤖","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {
+            "key": "阿里合集",
+            "name": "📁阿里合集",
+            "type": 3,
+            "api": "csp_AliShare",
+            "jar": "./jar/myok.jar",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "share": "file://TV/阿里集合.json"
+            },
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
+        {
+            "key": "csp_AList",
+            "name": "🌃失眠的夜｜AList",
+            "type": 3,
+            "api": "csp_AList",
+            "jar": "./jar/custom_spider.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "./json/smdyAlist.json"
+        },
+{
 			"key": "天天",
 			"name": "🐉天天App",
 			"type": 3,
