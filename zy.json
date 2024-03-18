@@ -52,7 +52,10 @@
       "quickSearch": 1,
       "categories": [
       "国产剧","国产动漫","台剧","港剧","欧美剧","剧情片", "动作片", "爱情片", "喜剧片"]
-    },		
+    },
+	{"key":"小雅","name":"小雅🐉网盘","api":"./lib/alist.min.js",
+ "type":3,"ext":"./sub/alist.json","searchable":1,"quickSearch":1
+},		
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
