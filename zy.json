@@ -19,6 +19,28 @@
 			"playerType": 1,
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
+		{
+      "key": "量子资源",
+      "name": "🥑量子资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+      "动作片", "爱情片", "喜剧片""剧情片""国产剧","国产动漫","泰国剧","台湾剧","香港剧",]
+    },
+  {
+      "key": "索尼资源",
+      "name": "🥑索尼资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+      "动作片", "爱情片", "喜剧片""剧情片""国产剧","国产动漫","泰国剧","台湾剧","香港剧",]
+    },
 
 {
             "key": "电影港",
