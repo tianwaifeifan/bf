@@ -39,7 +39,7 @@
             "filterable": 0,
             "ext": {
                 "token": "file://TV/ali_token.txt",
-                "share": "file://TV/阿里集合.json"
+                "share": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json"
             },
             "style": {
                 "type": "list"
