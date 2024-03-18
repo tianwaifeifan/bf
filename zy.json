@@ -115,21 +115,6 @@
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_SixV","name":"🐉新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
-{
-            "key": "Fangniu4k",
-            "name": "🐮放牛｜影视",
-            "type": 3,
-            "api": "csp_Fangniu4k",
-            "jar": "https://raw.gitcode.com/Tianwaifeifan/smdy/blobs/09aee15fa4ee18b3c7e01fbfbb3d023a696f2c1f/%E6%94%BE%E7%89%9B.jar",
-            "searchable": 1,
-            "changeable": 0
-        },
-		{"key":"阿里云集合","name":"阿里🐉分享(1)","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
- "ext": "./sub/alishare1.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/5641a89b423b28c9c8d38a03c6f9758de1b3e77a/myok.jar"
-},
-{"key":"阿里云集合1","name":"阿里🐉分享(2)","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
- "ext": "./sub/alishare2.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/5641a89b423b28c9c8d38a03c6f9758de1b3e77a/myok.jar"
-},
 
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/农民影视.json"},
 {"key":"骚火","name":"💢骚火","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
