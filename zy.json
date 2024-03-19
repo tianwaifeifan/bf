@@ -29,7 +29,7 @@
             "timeout": 30
         },
         {"key":"🐉阿里合集","name":"🐉阿里合集","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
- "ext": "./sub/alishare2.json;./lib/tokenm.json","jar": "./api/ali.jar"
+ "ext": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json;./lib/tokenm.json","jar": "./api/ali.jar"
 },
 {
             "key": "🐉阿里合集",
