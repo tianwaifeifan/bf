@@ -28,7 +28,7 @@
             },
             "timeout": 30
         },
-        {"key":"🐉阿里合集天外非凡","name":"🐉阿里合集","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
+        {"key":"🐉阿里合集天外非凡","name":"🐉阿里合集天外非凡","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
  "ext": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/5641a89b423b28c9c8d38a03c6f9758de1b3e77a/myok.jar"
 },
 {
