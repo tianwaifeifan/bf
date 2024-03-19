@@ -1,0 +1,18 @@
+{
+            "key": "🐉阿里合集",
+            "name": "🐉阿里合集",
+            "type": 3,
+            "api": "csp_AliShare",
+            "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/5641a89b423b28c9c8d38a03c6f9758de1b3e77a/myok.jar",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "share": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/阿里集合.json"
+            },
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
