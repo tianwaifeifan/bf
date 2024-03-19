@@ -5,7 +5,7 @@
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
-        {"key":"🐉阿里合集天外非凡","name":"🐉阿里合集天外非凡","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
+        {"key":"🇨🇳 阿里合集天外非凡","name":"🐉阿里合集天外非凡","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
  "ext": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar"
 },
 {"key":"戏曲","name":"🐉安徽庐剧🐉","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/Blixq.json"},
