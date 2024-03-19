@@ -5,13 +5,13 @@
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
-        {"key":"🇨🇳 阿里合集天外非凡","name":"🐉阿里合集天外非凡","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
+        {"key":"🇨🇳 阿里合集天外非凡","name":"🇨🇳 阿里合集天外非凡","type":3,"api":"csp_阿里云集合","searchable":1,"switchable":0,
  "ext": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar"
 },
-{"key":"戏曲","name":"🇨🇳 安徽庐剧🐉","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/Blixq.json"},
+{"key":"戏曲","name":"🇨🇳 安徽庐剧🇨🇳 ","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/Blixq.json"},
  {
-            "key": "🐉我的阿里",
-            "name": "🐉我的阿里",
+            "key": "🇨🇳 我的阿里",
+            "name": "🇨🇳 我的阿里",
             "type": 3,
             "api": "csp_MyAli",
             "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/5641a89b423b28c9c8d38a03c6f9758de1b3e77a/myok.jar",
@@ -27,8 +27,8 @@
             "timeout": 30
         },        
          {
-            "key": "🐉csp_AList",
-            "name": "🐉天外非凡｜网盘",
+            "key": "🇨🇳 csp_AList",
+            "name": "🇨🇳 天外非凡｜网盘",
             "type": 3,
             "api": "csp_AList",
             "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/c3bd10afbbdbf0c56e7f43c911c3c4317ed1d520/custom_spider.jar",
@@ -44,8 +44,8 @@
 {"key": "dr_ikanbot","name": "🤖┃爱看机器人┃🤖","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {
-			"key": "🐉天天",
-			"name": "🐉天天App",
+			"key": "🇨🇳 天天",
+			"name": "🇨🇳 天天App",
 			"type": 3,
 			"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/fa02d68592dbc55469404011771361f01400bbd1/pg.jar",
 			"api": "csp_TTian",
@@ -54,8 +54,8 @@
 		},
 
 {
-            "key": "🐉电影港",
-            "name": "🐉电影｜港湾",
+            "key": "🇨🇳 电影港",
+            "name": "🇨🇳 电影｜港湾",
             "type": 3,
             "api": "csp_XYQHiker",
             "playerType": "1",
@@ -64,7 +64,7 @@
         },
 		{"key": "Fangniu4k","name": "🐄┃放牛┃TV","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar":"https://raw.gitcode.com/Tianwaifeifan/smdy/blobs/09aee15fa4ee18b3c7e01fbfbb3d023a696f2c1f/%E6%94%BE%E7%89%9B.jar"},
 {
-      "key": "🐉量子资源",
+      "key": "🇨🇳 量子资源",
       "name": "🥑量子资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
@@ -75,8 +75,8 @@
       "国产剧","泰国剧","台湾剧","香港剧","剧情片", "动作片", "爱情片", "喜剧片"]
     },
   {
-      "key": "🐉索尼资源",
-      "name": "🐉索尼资源",
+      "key": "🇨🇳 索尼资源",
+      "name": "🇨🇳 索尼资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -88,7 +88,7 @@
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_Jianpian","name":"🐉荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
+{"key":"csp_Jianpian","name":"🇨🇳 荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 {"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
@@ -99,7 +99,7 @@
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_SixV","name":"🐉新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
+{"key":"csp_SixV","name":"🇨🇳 新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/农民影视.json"},
 {"key":"骚火","name":"💢骚火","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
