@@ -62,7 +62,7 @@
             "ext": "https://raw.gitcode.com/Tianwaifeifan/smdy/raw/master/json/%E7%94%B5%E5%BD%B1%E6%B8%AF.json",
             "jar": "https://raw.gitcode.com/Tianwaifeifan/smdy/blobs/0dea7787dcb687373eaddf1e811c766233e1c4ea/xyq.jar"
         },
-		{"key": "Fangniu4k","name": "🇨🇳 放牛🇨🇳 ","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar":"https://raw.gitcode.com/Tianwaifeifan/smdy/blobs/09aee15fa4ee18b3c7e01fbfbb3d023a696f2c1f/%E6%94%BE%E7%89%9B.jar"},
+		{"key": "Fangniu4k","name": "🇨🇳 放牛","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar":"https://raw.gitcode.com/Tianwaifeifan/smdy/blobs/09aee15fa4ee18b3c7e01fbfbb3d023a696f2c1f/%E6%94%BE%E7%89%9B.jar"},
 {
       "key": "🇨🇳 量子资源",
       "name": "🇨🇳 量子资源",
@@ -76,7 +76,7 @@
     },
   {
       "key": "🇨🇳 索尼资源",
-      "name": "🇨🇳 索尼资源🇨🇳 ",
+      "name": "🇨🇳 索尼资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "playUrl": "",
