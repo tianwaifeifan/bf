@@ -31,7 +31,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "token": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/ali_token.txt"
+                "token": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/token.txt"
             },
             "style": {
                 "type": "list"
