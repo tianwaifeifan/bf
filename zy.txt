@@ -38,12 +38,12 @@
             },
             "timeout": 30
         },        
-{"key":"csp_Czsapp","name":"🇨🇳 厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
-{"key":"csp_AppTT","name":"🇨🇳 萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
-{"key":"csp_NanGua","name":"🇨🇳 南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key": "dr_ikanbot","name": "🇨🇳 爱看机器人 ","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
+{"key":"csp_Czsapp","name":"🏭厂长厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
+{"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
+{"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key": "dr_ikanbot","name": "🤖爱看机器人🤖","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-{"key": "Fangniu4k","name": "🇨🇳 放牛","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar":"https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/4a5d3d86f7472854b798b44532e81dc04a91b547/fanniu.jar"},
+{"key": "Fangniu4k","name": "🐄┃放牛┃","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar":"https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/4a5d3d86f7472854b798b44532e81dc04a91b547/fanniu.jar"},
 {
 			"key": "🇨🇳 天天",
 			"name": "🇨🇳 天天",
