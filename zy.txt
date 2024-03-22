@@ -38,14 +38,6 @@
             },
             "timeout": 30
         },   
-        {"key":"我的阿里天外非凡","name":"我的｜阿里天外非凡","type":3,"api":"csp_MyAli","searchable":0,"quickSearch":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt"},"style":{"type":"list"},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1e2a7d9c0e4009331881daa9834e3858"},
-        {
-      "key": "drpy_js_我爱跟剧",
-      "name": "🇨🇳 我爱跟剧",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我爱跟剧.js"
-    },     
 {"key":"csp_Czsapp","name":"🏭厂长厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
