@@ -38,6 +38,7 @@
             },
             "timeout": 30
         },   
+        {"key":"我的阿里天外非凡","name":"我的｜阿里天外非凡","type":3,"api":"csp_MyAli","searchable":0,"quickSearch":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt"},"style":{"type":"list"},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1e2a7d9c0e4009331881daa9834e3858"},
         {
       "key": "drpy_js_我爱跟剧",
       "name": "🇨🇳 我爱跟剧",
