@@ -85,7 +85,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-      "国产剧","国产动漫","台剧","港剧","剧情片", "动作片","伦理片","三级片","爱情片", "喜剧片"]
+      "国产剧","国产动漫","台剧","港剧","剧情片", "动作片","爱情片", "喜剧片"]
     },
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
