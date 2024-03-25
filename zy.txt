@@ -43,7 +43,6 @@
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "dr_ikanbot","name": "🤖爱看机器人🤖","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-{"key": "Fangniu4k","name": "🐄┃放牛┃","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar":"https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/4a5d3d86f7472854b798b44532e81dc04a91b547/fanniu.jar"},
 {
 			"key": "🧸┃天天┃",
 			"name": "🧸┃天天┃",
@@ -87,7 +86,6 @@
       "categories": [
       "国产剧","国产动漫","台剧","港剧","剧情片", "动作片", "爱情片", "喜剧片"]
     },
-    {"key": "app_轻简","name": "🚈┃轻简┃影视","type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影","电视剧",]},
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_BaiPiao","name":"👻白飘┃无广","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
