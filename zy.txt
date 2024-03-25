@@ -43,7 +43,7 @@
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "dr_ikanbot","name": "🤖爱看机器人🤖","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-{"key":"drpy_js_MP4US","name":"🌹┃MP4电影┃🦢","type":3,"api":"https://agit.ai/alanchaotang/if/raw/branch/main/js/lib/drpy2.min.js","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+{"key":"csp_Mp4Mov","name":"💾┃MP4电影┃♉磁力","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/custom_spider.jar;md5;694a5575722bb086b6fde7a23a68a1d8","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
 			"key": "🧸┃天天┃",
 			"name": "🧸┃天天┃",
