@@ -55,14 +55,16 @@
 		},
 
 {
-            "key": "🇨🇳 电影港",
-            "name": "🇨🇳 电影港湾",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": "1",
-            "ext": "https://raw.gitcode.com/Tianwaifeifan/smdy/raw/master/json/%E7%94%B5%E5%BD%B1%E6%B8%AF.json",
-            "jar": "https://raw.gitcode.com/Tianwaifeifan/smdy/blobs/0dea7787dcb687373eaddf1e811c766233e1c4ea/xyq.jar"
-        },
+    "key":"drpy_js_电影港",
+    "name":"🌹电影港┃🦢",
+    "type":3,
+    "api":"https://agit.ai/alanchaotang/if/raw/branch/main/js/lib/drpy2.min.js",    "ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/dygang.js",
+    "playerType":"1",
+     "searchable":1, 
+     "quickSearch":1, 
+     "changeable":1,
+      "timeout":30
+      },
 {
       "key": "📡┃量子┃资源",
       "name": "📡┃量子┃资源",
