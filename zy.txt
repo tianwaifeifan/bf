@@ -60,7 +60,7 @@
       "name": "📺︎┃酷云┃1080P",
       "type": 1,
       "jar": "http://120.79.4.185/viplib/fan.jar",
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
+      "api": "https://www.youku.com/api.php/provide/vod/from/youku/?at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
