@@ -26,6 +26,7 @@
             "name": "📁我的专属-阿里网盘",
             "type": 3,
             "api": "csp_MyAli",
+            "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/5641a89b423b28c9c8d38a03c6f9758de1b3e77a/myok.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
