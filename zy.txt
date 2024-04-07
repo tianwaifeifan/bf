@@ -22,23 +22,6 @@
  "ext": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar"
 },
 {
-            "key": "我的阿里",
-            "name": "📁我的专属-阿里网盘",
-            "type": 3,
-            "api": "csp_MyAli",
-            "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/5641a89b423b28c9c8d38a03c6f9758de1b3e77a/myok.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "token": "file://TV/ali_token.txt"
-            },
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30
-        },
-{
             "key": "🇨🇳 我的阿里",
             "name": "🇨🇳 我的阿里",
             "type": 3,
