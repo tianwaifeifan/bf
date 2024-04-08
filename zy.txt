@@ -43,6 +43,7 @@
             "name": "🇨🇳白嫖-蓝光",
             "type": 3,
             "api": "csp_Cs1369",
+           "jar": "https://raw.gitcode.com/Tianwaifeifan/top-level/blobs/443356ef197bf1cd12ca85bbb23be77dce21852e/fan.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
