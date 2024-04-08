@@ -38,8 +38,8 @@
             },
             "timeout": 30
         },
-		{"key":"白嫖影视","name":"白嫖影视","type":3,"api":"csp_XBPQ","searchable":1,jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/9451e418808717ed7913df1cd2d43867e0421af4/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1","quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/%E7%99%BD%E5%AB%96%E5%BD%B1%E8%A7%86.json"},
-	{"key":"圣城影视","name":"圣城影视","type":3,"api":"csp_XBPQ","searchable":1,jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/9451e418808717ed7913df1cd2d43867e0421af4/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1","quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.json"},
+		{"key":"白嫖影视","name":"白嫖影视","type":3,"api":"csp_XBPQ","searchable":1,jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar","quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/%E7%99%BD%E5%AB%96%E5%BD%B1%E8%A7%86.json"},
+	{"key":"圣城影视","name":"圣城影视","type":3,"api":"csp_XBPQ","searchable":1,jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar","quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.json"},
         {"key":"csp_BaiPiao","name":"🍉白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/9451e418808717ed7913df1cd2d43867e0421af4/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
 {"key":"csp_Czsapp","name":"🏭厂长厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
