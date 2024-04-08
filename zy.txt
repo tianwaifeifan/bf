@@ -23,7 +23,7 @@
 },
 {
             "key": "我的阿里",
-            "name": "📁我的专属-阿里网盘",
+            "name": "🇨🇳我的阿里网盘",
             "type": 3,
             "api": "csp_MyAli",
             "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/ab5bc4fb407734e604718ce68a616657892be5db/okjpg.txt",
@@ -38,23 +38,6 @@
             },
             "timeout": 30
         },
-{
-            "key": "🇨🇳 我的阿里",
-            "name": "🇨🇳 我的阿里",
-            "type": 3,
-            "api": "csp_MyAli",
-            "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/ab5bc4fb407734e604718ce68a616657892be5db/okjpg.txt",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "token": "file://TV/ali_token.txt"
-            },
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30
-        },   
         {"key":"csp_BaiPiao","name":"🇨🇳 白飘┃无广","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com/"},
 {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 {"key":"csp_Czsapp","name":"🏭厂长厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
