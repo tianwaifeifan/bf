@@ -38,6 +38,7 @@
             },
             "timeout": 30
         },
+		{"key": "baipiao","name": "🤺┃白嫖影视┃PY","type": 3,"api": "https://githubfd.deno.dev/alantang1977/X/main/js/py_白嫖.py"},
         {"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
 {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 {"key":"csp_Czsapp","name":"🏭厂长厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
