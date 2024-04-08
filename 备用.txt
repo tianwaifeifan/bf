@@ -17,11 +17,12 @@
             "timeout": 30
         },
         {
+                  {
             "key": "🇨🇳 我的阿里",
             "name": "🇨🇳 我的阿里",
             "type": 3,
             "api": "csp_MyAli",
-            "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/5641a89b423b28c9c8d38a03c6f9758de1b3e77a/myok.jar",
+            "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/ab5bc4fb407734e604718ce68a616657892be5db/okjpg.txt",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -32,5 +33,4 @@
                 "type": "list"
             },
             "timeout": 30
-        },        
-       https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/680e1e6f7bb5ffb6da5a6f9b7f133813df396483/Yoursmile.jar;md5;42A6EC6AB77DDDDC5153760F4700C9BE
+        },   
