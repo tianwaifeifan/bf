@@ -40,7 +40,7 @@
         },
         {"key":"csp_BaiPiao","name":"🍉白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/9451e418808717ed7913df1cd2d43867e0421af4/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
 {"key":"drjs_两个BT","name":"👺两个BT","type":3,"api":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/dr_py/libs/drpy.min.js","ext":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/EXT/JS/两个BT.js"},
-{"key":"drjs_厂长资源","name":"👺厂长资源(DRPY)","type":3,"api":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/dr_py/libs/drpy.min.js","ext":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/EXT/JS/厂长资源.js"},
+{"key":"csp_Czzy","name":"👴厂长(SP)","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_厂长资源","name":"🏭厂长资源(DRPY)","type":3,"api":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/dr_py/libs/drpy.min.js","ext":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/EXT/JS/厂长资源.js"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
