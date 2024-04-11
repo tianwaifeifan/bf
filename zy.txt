@@ -13,7 +13,7 @@
 			"name": "🇨🇳 阿里分享天外非凡",
 			"type": 3,
 			"api": "csp_AliShare",
-			"jar":"https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar",
+			"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
