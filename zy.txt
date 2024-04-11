@@ -14,6 +14,7 @@
 			"type": 3,
 			
 			"api": "csp_AliShare",
+			"jar":"https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/75a0aac191870143b5afa7424d8944cf8dcfaec1/pg%20.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
