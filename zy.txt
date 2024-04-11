@@ -13,7 +13,7 @@
 			"name": "🇨🇳 阿里分享天外非凡",
 			"type": 3,
 			"api": "csp_AliShare",
-			"jar":"https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/jar/pg.jar?ref_type=heads&inline=false",
+			"jar":"https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
