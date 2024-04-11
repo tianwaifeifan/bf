@@ -10,16 +10,16 @@
 {"key":"🇨🇳 阿里合集","name":"🇨🇳 阿里合集","type":3,"api":"阿里云集合","searchable":1,"switchable":0,"ext": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json;https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar"},
 {
 			"key": "AliShare",
-			"name": "🇨🇳 阿里分享天外非凡",
+			"name": "🍒田|阿里云盘分享",
 			"type": 3,
+			"jar": "./jar/pg.jar",
 			"api": "csp_AliShare",
-			"jar":"https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/jar/pg.jar?ref_type=heads&inline=false",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/TK.json?ref_type=heads,https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json",
+			"ext": "./lib/TK.json$$$./lib/alishare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
