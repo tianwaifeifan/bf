@@ -12,14 +12,14 @@
 			"key": "AliShare",
 			"name": "🍒田|阿里云盘分享",
 			"type": 3,
-			"jar": "./jar/pg.jar",
+			"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/47e906167cc6a009193399d71d48870e851e7cff/pg%20(2).jar",
 			"api": "csp_AliShare",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "./lib/TK.json$$$./lib/alishare.txt$$$db$$$1",
+			"ext": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/TK.json$$$https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
