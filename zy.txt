@@ -12,6 +12,7 @@
             "name": "🪪阿里夸克-配置中心",
             "type": 3,
             "api": "csp_Config",
+			"jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "searchable": 0,
             "changeable": 0,
             "style": {
