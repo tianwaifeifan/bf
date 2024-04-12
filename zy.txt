@@ -16,7 +16,7 @@
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
-			"jar":"https://agit.ai/1452635819/h/raw/branch/master/api/pg.jar
+			"jar":"https://agit.ai/1452635819/h/raw/branch/master/api/pg.jar",
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
