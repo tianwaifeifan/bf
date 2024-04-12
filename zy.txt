@@ -13,6 +13,16 @@
 				"ratio": 1.1
 			}
 		},
+		{
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"jar":"https://agit.ai/1452635819/h/raw/branch/master/api/pg.jar
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"https://agit.ai/leevi/PiG/raw/branch/master/lib/tokentemplate.json"
+		},
 {"key": "我的阿里","name": "🇨🇳我的阿里","type": 3,"api": "csp_MyAli","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/26481f7d58920c83f2e961a299c400bc15919667/okjpg.txt","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": {"token": "file://TV/ali_token.txt"},"style": {"type": "list"},"timeout": 30},
 {"key":"drjs_两个BT","name":"🇨🇳 两个BT","type":3,"api":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/dr_py/libs/drpy.min.js","ext":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/EXT/JS/两个BT.js"},
 {"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
