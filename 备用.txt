@@ -44,3 +44,4 @@
 			}
 		},
         {"key":"AliShare","name":"🇨🇳影视分享","type":3,"api":"csp_AliShare","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/67f5e995ed8ceeb7867a5da6a39753dc81b04668/pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json$$$https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/%E9%98%BF%E9%87%8C%E5%88%86%E4%BA%AB.txt$$$db$$$1"},
+{"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/5e22bb6fc79b3bb610579217c52af5a564d36206/jar.php","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
