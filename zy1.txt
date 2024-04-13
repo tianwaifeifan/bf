@@ -14,6 +14,7 @@
 			"name": "网盘及彈幕配置",
 			"type": 3,
 			"api": "csp_Config",
+			"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/67f5e995ed8ceeb7867a5da6a39753dc81b04668/pg.jar",
 			"searchable": 0,
 			"changeable": 0,
 			"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json"
