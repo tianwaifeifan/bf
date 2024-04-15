@@ -9,7 +9,6 @@
 
 {"key":"AliShare","name":"🇨🇳影视分享","type":3,"api":"csp_AliShare","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/67f5e995ed8ceeb7867a5da6a39753dc81b04668/pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./tokenm.json$$$./sub/%E9%98%BF%E9%87%8C%E5%88%86%E4%BA%AB.txt$$$db$$$1"},
 
-{"key": "我的阿里","name": "🇨🇳我的阿里","type": 3,"api": "csp_MyAli","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/dd46c72e7bbb739bbc76e88bc375bb785055b151/okjpg.txt","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": {"token": "file://TV/ali_token.txt"},"style": {"type": "list"},"timeout": 30},
 {"key":"🇨🇳 阿里合集","name":"🇨🇳 阿里合集","type":3,"api":"阿里云集合","searchable":1,"switchable":0,"ext": "./sub/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json;./tokenm.json","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/a22e3be423ae364d1f8fd602f1aa1de194d1d7c3/ali.jar"},
 
 {"key":"drjs_两个BT","name":"🇨🇳 两个BT","type":3,"api":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/dr_py/libs/drpy.min.js","ext":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/EXT/JS/两个BT.js"},
