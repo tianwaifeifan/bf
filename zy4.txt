@@ -39,7 +39,6 @@
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/51813d6a69b2153059a8c8bc6cb6d3d88859ebe8/Yoursmile.jar;md5;3EF4558FAAF6EE6D59F4FC1D0FA02273","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/af0b2099d9418d7f0b3650b59f3b97d8dfc27de2/fan.txt;md5;08ae765676d7dffee6f7e363c0c22de1","timeout": 15,"searchable":1,"quickSearch":1,"changeable": 1},
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/51813d6a69b2153059a8c8bc6cb6d3d88859ebe8/Yoursmile.jar;md5;3EF4558FAAF6EE6D59F4FC1D0FA02273","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360","name":"💘360","type":3,"api":"csp_SP33","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/51813d6a69b2153059a8c8bc6cb6d3d88859ebe8/Yoursmile.jar;md5;3EF4558FAAF6EE6D59F4FC1D0FA02273","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_SixV","name":"🇨🇳 新6V","type":3,"api":"csp_SixV","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/51813d6a69b2153059a8c8bc6cb6d3d88859ebe8/Yoursmile.jar;md5;3EF4558FAAF6EE6D59F4FC1D0FA02273","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/农民影视.json"},
