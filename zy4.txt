@@ -14,6 +14,7 @@
 
 {"key":"drjs_两个BT","name":"🇨🇳 两个BT","type":3,"api":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/dr_py/libs/drpy.min.js","ext":"https://raw.gitcode.com/Tianwaifeifan/N3RD/raw/master/JN/EXT/JS/两个BT.js"},
 {"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key": "视觉","name": "👓视觉┃直连","type": 3,"api": "csp_Xinsj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com/"},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_BaiPiao","name":"👻白嫖天外","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
 {"key":"csp_Czzy","name":"🏭厂长","type":3,"api":"csp_Czzy","jar":"https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/1cb61789cc4ef8c135ed333814695e7953d58856/lem0302.jar;md5;994f5f0553cb67519b1fa5002a7171bb","searchable":1,"quickSearch":1,"filterable":1},
