@@ -8,7 +8,7 @@
 	"sites":[
 {"key":"戏曲","name":"🇨🇳 安徽庐剧","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/Blixq.json"},
 
-{"key":"AliShare","name":"🇨🇳影视分享","type":3,"api":"csp_AliShare","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/b06747322b3e022cfb023f512ab5d14cce06db13/pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./tokenm.json$$$./sub/%E9%98%BF%E9%87%8C%E5%88%86%E4%BA%AB.txt$$$db$$$1"},
+{"key":"AliShare","name":"🇨🇳影视分享","type":3,"api":"csp_AliShare","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/b06747322b3e022cfb023f512ab5d14cce06db13/pg.jar;md5;39180de7674137b180fa7c8228373e8e","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./tokenm.json$$$./sub/%E9%98%BF%E9%87%8C%E5%88%86%E4%BA%AB.txt$$$db$$$1"},
 
 {"key":"🇨🇳 阿里合集","name":"🇨🇳 阿里合集","type":3,"api":"阿里云集合","searchable":1,"switchable":0,"ext": "./sub/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json;./tokenm.json","jar": "./ali.jar"},
 
@@ -55,7 +55,7 @@
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"PanSearch","name":"🙀盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{ "key": "🇨🇳 csp_AList","name": "🇨🇳 AList网盘 ","type": 3,"api": "csp_AList","jar": "./custom_spider.jar","searchable": 1, "quickSearch": 0,"filterable": 1,"changeable": 0,"ext": "./sub/alist.json"},
+{ "key": "🇨🇳 csp_AList","name": "🇨🇳 AList网盘 ","type": 3,"api": "csp_AList","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/c3bd10afbbdbf0c56e7f43c911c3c4317ed1d520/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3","searchable": 1, "quickSearch": 0,"filterable": 1,"changeable": 0,"ext": "./sub/alist.json"},
 {"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/Bili.json"},
 {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/Blixs.json"},
 {
@@ -63,7 +63,7 @@
 			"name": "网盘及彈幕配置",
 			"type": 3,
 			"api": "csp_Config",
-			"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/b06747322b3e022cfb023f512ab5d14cce06db13/pg.jar",
+			"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/b06747322b3e022cfb023f512ab5d14cce06db13/pg.jar;md5;39180de7674137b180fa7c8228373e8e",
 			"searchable": 0,
 			"changeable": 0,
 			"ext":"./tokenm.json"
