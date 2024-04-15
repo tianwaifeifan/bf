@@ -15,7 +15,9 @@
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_BaiPiao","name":"👻白嫖天外","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
 {"key":"csp_Czzy","name":"🏭厂长","type":3,"api":"csp_Czzy","jar":"https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/1cb61789cc4ef8c135ed333814695e7953d58856/lem0302.jar;md5;994f5f0553cb67519b1fa5002a7171bb","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
+{"key": "萌米","name": "👀萌米┃App","type": 3,"api": "csp_AppTT","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/af0b2099d9418d7f0b3650b59f3b97d8dfc27de2/fan.txt;md5;08ae765676d7dffee6f7e363c0c22de1","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "dr_ikanbot","name": "🤖爱看机器人","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
