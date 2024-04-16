@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "./Yoursmile.jar;md5;9acc0c3a33900d7a7210f464d1555630",
+	"spider": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/51813d6a69b2153059a8c8bc6cb6d3d88859ebe8/Yoursmile.jar;md5;9acc0c3a33900d7a7210f464d1555630",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
