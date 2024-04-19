@@ -12,7 +12,7 @@
       "name": "🦋阿里┃合集",
       "type": 3,
       "api": "csp_AliShare",
-      "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt?ref_type=heads",
+      "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/b06747322b3e022cfb023f512ab5d14cce06db13/pg.jar",
       "searchable": 1,
       "changeable": 0,
       "filterable": 0,
