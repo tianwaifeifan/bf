@@ -1,9 +1,9 @@
 {
 "token":"阿里云盘32位token",
 "open_token":"阿里云盘280位open_token",
-"thread_limit":32,
+"thread_limit":10,
 "is_vip":true,
-"vip_thread_limit":0,
+"vip_thread_limit":10,
 "vod_flags":"4k|4kz|auto",
 "quark_thread_limit":32,
 "quark_is_vip":false,
@@ -41,3 +41,4 @@
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true
 }
+
